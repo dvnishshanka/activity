@@ -1,0 +1,6 @@
+/* Your avatar CSS code here */
+.avatar {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+}
